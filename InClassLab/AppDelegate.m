@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  InClassLab
 //
-//  Created by Lionel Caceres on 9/28/15.
+//  Created by Nicholas Caceres on 9/28/15.
 //  Copyright (c) 2015 Nicholas Caceres. All rights reserved.
 //
 
